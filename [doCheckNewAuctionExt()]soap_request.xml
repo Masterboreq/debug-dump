@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="https://webapi.allegro.pl/service.php">
+  <SOAP-ENV:Body>
+    <ns1:DoCheckNewAuctionExtRequest>
+      <ns1:sessionHandle>38139526762640b077cc7c1cfe524fe94247b078155a17//01_1</ns1:sessionHandle>
+      <ns1:fields />
+    </ns1:DoCheckNewAuctionExtRequest>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+<? -- Element: "<fields>" - wygląda na to, że z jakiegoś powodu tablicy się nie zagnieżdża w zapytaniu -- ?>
