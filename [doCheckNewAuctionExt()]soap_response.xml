@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Body>
+    <SOAP-ENV:Fault>
+      <faultcode>ERR_OBLIGATORY_ATTRIB_NOT_SET</faultcode>
+      <faultstring>Nie podano parametru wymaganego dla wybranej kategorii. (Kategoria - fid: 2)</faultstring>
+      <faultactor>doCheckNewAuctionExt - One or more obligatory attributes have not been set.</faultactor>
+    </SOAP-ENV:Fault>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+<? --- w nawiązaniu do komentarza z analogicznego pliku z zapytaniem: nic dziwnego, że API krzyczy, że brak mu FID 2,
+skoro nie dostał absolutnie żadnej struktury! --->
