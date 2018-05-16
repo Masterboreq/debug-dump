@@ -1,0 +1,1826 @@
+array(66) {
+  [0]=>
+  array(5) {
+    ["fid"]=>
+    int(1)
+    ["fvalueString"]=>
+    string(51) "HAK MASKI VW TOURAN 2015- NOWY ORYGINAŁ 5TA823186A"
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [1]=>
+  array(5) {
+    ["fid"]=>
+    int(2)
+    ["fvalueInt"]=>
+    int(254565)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [2]=>
+  array(5) {
+    ["fid"]=>
+    int(3)
+    ["fvalueDatetime"]=>
+    int(1526480464)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [3]=>
+  array(5) {
+    ["fid"]=>
+    int(4)
+    ["fvalueInt"]=>
+    int(99)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [4]=>
+  array(5) {
+    ["fid"]=>
+    int(5)
+    ["fvalueInt"]=>
+    int(3)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [5]=>
+  array(5) {
+    ["fid"]=>
+    int(8)
+    ["fvalueFloat"]=>
+    int(99)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [6]=>
+  array(5) {
+    ["fid"]=>
+    int(9)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [7]=>
+  array(5) {
+    ["fid"]=>
+    int(10)
+    ["fvalueInt"]=>
+    int(12)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [8]=>
+  array(5) {
+    ["fid"]=>
+    int(11)
+    ["fvalueString"]=>
+    string(8) "Chorzów"
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [9]=>
+  array(5) {
+    ["fid"]=>
+    int(12)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [10]=>
+  array(5) {
+    ["fid"]=>
+    int(14)
+    ["fvalueInt"]=>
+    int(32)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [11]=>
+  array(5) {
+    ["fid"]=>
+    int(15)
+    ["fvalueInt"]=>
+    int(2)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [12]=>
+  array(5) {
+    ["fid"]=>
+    int(16)
+    ["fvalueImage"]=>
+    string(111292) "OBRAZEK 1 w Base64; usunąłem dla czytelności. Nie ma z nim problemu podczas testów API."
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [13]=>
+  array(5) {
+    ["fid"]=>
+    int(17)
+    ["fvalueImage"]=>
+    string(125944) "OBRAZEK 2 w Base64; usunąłem dla czytelności. Nie ma z nim problemu podczas testów API."
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [14]=>
+  array(5) {
+    ["fid"]=>
+    int(24)
+    ["fvalueString"]=>
+    string(0) ""
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [15]=>
+  array(4) {
+    ["fid"]=>
+    int(27)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [16]=>
+  array(10) {
+    ["fid"]=>
+    int(28)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+    ["fvalueString"]=>
+    string(0) ""
+    ["fvalueInt"]=>
+    int(0)
+    ["fvalueFloat"]=>
+    int(0)
+    ["fvalueImage"]=>
+    int(0)
+    ["fvalueDatetime"]=>
+    int(0)
+    ["fvalueDate"]=>
+    string(0) ""
+  }
+  [17]=>
+  array(5) {
+    ["fid"]=>
+    int(29)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [18]=>
+  array(5) {
+    ["fid"]=>
+    int(32)
+    ["fvalueString"]=>
+    string(6) "41-503"
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [21]=>
+  array(5) {
+    ["fid"]=>
+    int(35)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [22]=>
+  array(5) {
+    ["fid"]=>
+    int(44)
+    ["fvalueFloat"]=>
+    int(20)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [23]=>
+  array(5) {
+    ["fid"]=>
+    int(45)
+    ["fvalueFloat"]=>
+    int(30)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [24]=>
+  array(5) {
+    ["fid"]=>
+    int(63)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [25]=>
+  array(5) {
+    ["fid"]=>
+    int(64)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [26]=>
+  array(5) {
+    ["fid"]=>
+    int(65)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [27]=>
+  array(5) {
+    ["fid"]=>
+    int(66)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [28]=>
+  array(5) {
+    ["fid"]=>
+    int(67)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [29]=>
+  array(5) {
+    ["fid"]=>
+    int(68)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [30]=>
+  array(5) {
+    ["fid"]=>
+    int(69)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [31]=>
+  array(5) {
+    ["fid"]=>
+    int(70)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [32]=>
+  array(5) {
+    ["fid"]=>
+    int(71)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [33]=>
+  array(5) {
+    ["fid"]=>
+    int(72)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [34]=>
+  array(5) {
+    ["fid"]=>
+    int(73)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [35]=>
+  array(5) {
+    ["fid"]=>
+    int(74)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [36]=>
+  array(5) {
+    ["fid"]=>
+    int(75)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [37]=>
+  array(5) {
+    ["fid"]=>
+    int(76)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [38]=>
+  array(5) {
+    ["fid"]=>
+    int(77)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [39]=>
+  array(5) {
+    ["fid"]=>
+    int(78)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [40]=>
+  array(5) {
+    ["fid"]=>
+    int(79)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [41]=>
+  array(5) {
+    ["fid"]=>
+    int(80)
+    ["fvalueFloat"]=>
+    int(56)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [42]=>
+  array(10) {
+    ["fid"]=>
+    int(144)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+    ["fvalueString"]=>
+    string(0) ""
+    ["fvalueInt"]=>
+    int(0)
+    ["fvalueFloat"]=>
+    int(25)
+    ["fvalueImage"]=>
+    int(0)
+    ["fvalueDatetime"]=>
+    int(0)
+    ["fvalueDate"]=>
+    string(0) ""
+  }
+  [62]=>
+  array(5) {
+    ["fid"]=>
+    int(244)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [63]=>
+  array(5) {
+    ["fid"]=>
+    int(245)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [64]=>
+  array(5) {
+    ["fid"]=>
+    int(263)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [65]=>
+  array(5) {
+    ["fid"]=>
+    int(264)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [66]=>
+  array(5) {
+    ["fid"]=>
+    int(265)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [67]=>
+  array(5) {
+    ["fid"]=>
+    int(266)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [68]=>
+  array(5) {
+    ["fid"]=>
+    int(267)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [69]=>
+  array(5) {
+    ["fid"]=>
+    int(268)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [70]=>
+  array(5) {
+    ["fid"]=>
+    int(269)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [71]=>
+  array(5) {
+    ["fid"]=>
+    int(270)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [72]=>
+  array(5) {
+    ["fid"]=>
+    int(271)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [73]=>
+  array(5) {
+    ["fid"]=>
+    int(272)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [74]=>
+  array(5) {
+    ["fid"]=>
+    int(273)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [75]=>
+  array(5) {
+    ["fid"]=>
+    int(274)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [76]=>
+  array(5) {
+    ["fid"]=>
+    int(275)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [77]=>
+  array(5) {
+    ["fid"]=>
+    int(276)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [78]=>
+  array(5) {
+    ["fid"]=>
+    int(277)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [79]=>
+  array(5) {
+    ["fid"]=>
+    int(278)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [80]=>
+  array(5) {
+    ["fid"]=>
+    int(279)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [81]=>
+  array(5) {
+    ["fid"]=>
+    int(280)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [83]=>
+  array(5) {
+    ["fid"]=>
+    int(340)
+    ["fvalueInt"]=>
+    int(48)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [84]=>
+  array(5) {
+    ["fid"]=>
+    int(25361)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [85]=>
+  array(5) {
+    ["fid"]=>
+    int(32608)
+    ["fvalueInt"]=>
+    int(1)
+    ["fvalueRangeInt"]=>
+    array(2) {
+      ["fvalueRangeIntMin"]=>
+      int(0)
+      ["fvalueRangeIntMax"]=>
+      int(0)
+    }
+    ["fvalueRangeFloat"]=>
+    array(2) {
+      ["fvalueRangeFloatMin"]=>
+      int(0)
+      ["fvalueRangeFloatMax"]=>
+      int(0)
+    }
+    ["fvalueRangeDate"]=>
+    array(2) {
+      ["fvalueRangeDateMin"]=>
+      string(0) ""
+      ["fvalueRangeDateMax"]=>
+      string(0) ""
+    }
+  }
+  [86]=>
+  array(2) {
+    ["fid"]=>
+    int(341)
+    ["fvalueString"]=>
+    string(1125) "{"sections": [{"items": [{"type": "TEXT", "content": "<p>PRZEDMIOTEM AUKCJI JEST:<br /><br />HAK ZAMEK MASKI<br />VW TOURAN 2015- NOWY MODEL<br />STAN : NOWY<br />NR: 5TA 823 186 A<br />ORYGINAŁKOMPLETNY JAK NA FOTOWERSJA EUROPEJSKA<br /><br /> </p>"},{"type": "IMAGE", "url": "PHOTO_FID_16"}]}, {"items": [{"type": "TEXT", "content": "<p>Wystawiony przedmiot jest unikatowy, a fotografia przedstawia przedmiot, którego dotyczy aukcja.</p><p>Przedmiot posiada nadrukowany oryginalny numer OEM producenta (VW lub AUDI; w zależności od marki) i pochodzi od licencjonowanego fabrycznego sprzedawcy.</p><p>Jeśli nie jesteś pewny, czy właśnie ten przedmiot jest tym właściwym dla Twojego pojazdu, skonsultuj zakup z serwisem lub z nami.</p><p>Gwarantujemy, że wszystkie zakupione na naszych aukcjach podzespoły, które wymagają zaprogramowania w serwisie VW lub Audi (np. lampy, czujniki, kamery itp.) bez przeszkód zostaną przyjęte w takim serwisie, zostaną zaprogramowane do działania w Państwa samochodzie i będą bez przeszkód w nim działać tak, jakby były w Państwa samochodzie od nowości.</p>"}]}]}"
+  }
+  [87]=>
+  array(2) {
+    ["fid"]=>
+    int(36754)
+    ["fvalueInt"]=>
+    int(266978)
+  }
+}
